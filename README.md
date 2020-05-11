@@ -1,1 +1,1 @@
-# Data-Science-Codecademy
+# Learn-SQL-Codecademy
