@@ -1,4 +1,4 @@
-/* Churn rate calculation
+/* Churn rate calculation from tables */
 
 SELECT 1.0 * 
 (
