@@ -1,3 +1,5 @@
+/* Churn rate calculation
+
 SELECT 1.0 * 
 (
   SELECT COUNT(*)
